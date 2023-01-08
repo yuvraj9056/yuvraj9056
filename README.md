@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @yuvraj9056
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web developement.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Yuvraj Singh
+- 👀 I’m interested in learning new technologies.
+- 🌱 I’m currently learning web developement
 
 <!---
 yuvraj9056/yuvraj9056 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

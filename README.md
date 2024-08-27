@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yuvraj Singh
-- 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning web developement
+- 👀 I’m interested in Data Science.
 
 <!---
 yuvraj9056/yuvraj9056 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
